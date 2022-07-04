@@ -1,0 +1,13 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5433/songs
+    username: admin
+    password: admin1234
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 100MB
