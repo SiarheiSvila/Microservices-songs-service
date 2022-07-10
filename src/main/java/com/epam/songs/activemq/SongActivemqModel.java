@@ -1,9 +1,9 @@
-package com.epam.songs.api.clientmodels;
+package com.epam.songs.activemq;
 
 import lombok.Data;
 
 @Data
-public class SongClientModel {
+public class SongActivemqModel {
     private String name;
     private String artist;
     private String album;

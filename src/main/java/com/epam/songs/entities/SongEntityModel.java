@@ -33,5 +33,5 @@ public class SongEntityModel {
     private long resourceId;
 
     @Column
-    private int year;
+    private String year;
 }

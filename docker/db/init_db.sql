@@ -7,5 +7,5 @@ artist          VARCHAR(32) NOT NULL,
 album           VARCHAR(32) NOT NULL,
 length          BIGINT      NOT NULL,
 resource_id     BIGINT      NOT NULL,
-year            int         NOT NULL
+year            VARCHAR(8)         NOT NULL
 );

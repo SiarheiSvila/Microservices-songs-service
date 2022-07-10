@@ -3,10 +3,6 @@ Built for [EPAM Microservices learn program](https://learn.epam.com/myLearning/p
 
 Simple service to perform CRUD operations for songs.
 
-For file storing [Localstack](https://github.com/localstack/localstack) is used. For creating S3 bucket at Localstack [Terraform](https://learn.hashicorp.com/terraform) is used.
-
-
-
 ## Installation
 
 
